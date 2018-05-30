@@ -1,8 +1,0 @@
-New Feature
-
-Contents
-
-Design
-	Prototype
-Implementation Phases - phase 1
-Future Work 
