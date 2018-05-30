@@ -9,5 +9,6 @@ New Feature
 Contents
 
 Design
+	Prototype
 Implementation Phases
 Future Work 
