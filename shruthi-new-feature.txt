@@ -1,1 +1,13 @@
+#!/bin/sh
+#
+# Copyright (c) 2018 Nutanix Inc. All rights reserved.
+#
+# Author: shruthi.racha@nutanix.com
+
 New Feature
+
+Contents
+
+Design
+Implementation Phases
+Future Work 
