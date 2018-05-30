@@ -1,14 +1,7 @@
-#!/bin/sh
-#
-# Copyright (c) 2018 Nutanix Inc. All rights reserved.
-#
-# Author: shruthi.racha@nutanix.com
-
 New Feature
 
 Contents
 
 Design
-	Prototype
-Implementation Phases - phase1
+Implementation Phases
 Future Work 
